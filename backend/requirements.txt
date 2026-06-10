@@ -2,3 +2,6 @@ flask
 flask-cors
 requests
 python-dotenv
+pandas
+yfinance
+psycopg2-binary
